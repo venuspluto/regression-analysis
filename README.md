@@ -11,3 +11,4 @@ And we need to analysis the relationship between GPA and english, science, math 
 To study the variation of GPA(Y), we fit an MLR model to the data using 3 explanatory variables: english scores(x1), math scores(x2), and science scores(x3).
 The scatter plot matrix for the datais shown as below.
 <img width="960" alt="sat regressions analysis" src="https://user-images.githubusercontent.com/38774100/39390645-8b30c3aa-4a65-11e8-9f43-7040b74474c0.png">
+<img width="960" alt="sat regression analysis2" src="https://user-images.githubusercontent.com/38774100/39390938-0df6f846-4a6a-11e8-9727-0324fab0fa89.png">
