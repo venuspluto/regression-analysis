@@ -1,8 +1,8 @@
 # regression-analysis
-# Multiple linear regression is used to explore the relationship between one response variable and (one or more than one)predictor variables. This this case we gonna look at multiple linear regression and consider Y: response variable    X1,X2.....:predictor variables
-# This data set is taken from an GPA study that measured 6 variables（columns2 to column7):
-# column2 - students' GPA
-# column3 - students' english scores
+Multiple linear regression is used to explore the relationship between one response variable and (one or more than one)predictor variables. This this case we gonna look at multiple linear regression and consider Y: response variable    X1,X2.....:predictor variables
+#This data set is taken from an GPA study that measured 6 variables（columns2 to column7):
+#column2 - students' GPA
+#column3 - students' english scores
 column4 - students' math scores
 column5 - students' science scores
 column6 - students' SAT math scores
